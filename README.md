@@ -1,6 +1,6 @@
 ## 💜 Hi, I'm Maria Lydia! 👋
 
-<img src="https://raw.githubusercontent.com/mlfioravanti/mlfioravanti/avatar/jpg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="/workspaces/mlfioravanti/avatar.jpg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
  I’m currently a <strong>PhD Candidate</strong> at the University of São Paulo (Brazil) and the Universidad Politécnica de Madrid (Spain).
@@ -23,7 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mlfioravanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mlfioravanti" height="30" width="40" /></a>
+
+<a href="https://instagram.com/mlfioravanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlfioravanti" height="40" width="40" /></a>
+<a href="https://x.com/mlfioravanti" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="mlfioravanti" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/mlfioravanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlfioravanti" height="30" width="40" /></a>
-<a href="https://instagram.com/mlfioravanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlfioravanti" height="30" width="40" /></a>
+
 </p>
