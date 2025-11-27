@@ -1,6 +1,6 @@
 ## 💜 Hi, I'm Maria Lydia! 👋
 
-<img src="/workspaces/mlfioravanti/avatar.jpg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="[/workspaces/mlfioravanti/avatar.jpg](https://raw.githubusercontent.com/mlfioravanti/mlfioravanti/refs/heads/main/avatar.jpg)" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
  I’m currently a <strong>PhD Candidate</strong> at the University of São Paulo (Brazil) and the Universidad Politécnica de Madrid (Spain).
